@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title> Biblioteca IESTP-HUANTA</title>
+        <title> VENTA DE ROPA </title>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
         <meta content="MyraStudio" name="author" />
@@ -90,7 +90,7 @@
                         <div class="dropdown d-inline-block">
                             <button type="button" class="btn header-item waves-effect"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <img class="" src="assets/images/flags/us.jpg" alt="Header Language" height="16">
+                                <img class="" src="plantilla/admin/vertical/assets/images/flags/us.jpg" alt="Header Language" height="16">
                                 <span class="d-none d-sm-inline-block ml-1">English</span>
                                 <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
                             </button>
@@ -98,25 +98,25 @@
 
                                 <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <img src="assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
+                                    <img src="plantilla/admin/vertical/assets/images/flags/spain.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Spanish</span>
                                 </a>
 
                                 <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <img src="assets/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12">
+                                    <img src="plantilla/admin/vertical/assets/images/flags/germany.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">German</span>
                                 </a>
 
                                 <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <img src="assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
+                                    <img src="plantilla/admin/vertical/assets/images/flags/italy.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Italian</span>
                                 </a>
 
                                 <!-- item-->
                                 <a href="javascript:void(0);" class="dropdown-item notify-item">
-                                    <img src="assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
+                                    <img src="plantilla/admin/vertical/assets/images/flags/russia.jpg" alt="user-image" class="mr-1" height="12">
                                     <span class="align-middle">Russian</span>
                                 </a>
                             </div>
@@ -144,7 +144,7 @@
                                 <div data-simplebar style="max-height: 230px;">
                                     <a href="" class="text-reset notification-item">
                                         <div class="media">
-                                            <img src="assets/images/users/avatar-2.jpg"
+                                            <img src="plantilla/admin/vertical/assets/images/users/avatar-2.jpg"
                                                 class="mr-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="media-body">
                                                 <h6 class="mt-0 mb-1">Samuel Coverdale</h6>
@@ -172,7 +172,7 @@
                                     </a>
                                     <a href="" class="text-reset notification-item">
                                         <div class="media">
-                                            <img src="assets/images/users/avatar-3.jpg"
+                                            <img src="plantilla/admin/vertical/assets/images/users/avatar-3.jpg"
                                                 class="mr-3 rounded-circle avatar-xs" alt="user-pic">
                                             <div class="media-body">
                                                 <h6 class="mt-0 mb-1">Victoria Mendis</h6>
@@ -194,7 +194,7 @@
                         <div class="dropdown d-inline-block ml-2">
                             <button type="button" class="btn header-item waves-effect"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <img class="rounded-circle header-profile-user" src="assets/images/users/avatar-2.jpg"
+                                <img class="rounded-circle header-profile-user" src="plantilla/admin/vertical/assets/images/users/avatar-2.jpg"
                                     alt="Header Avatar">
                                 <span class="d-none d-sm-inline-block ml-1">Donald M.</span>
                                 <i class="mdi mdi-chevron-down d-none d-sm-inline-block"></i>
@@ -242,7 +242,7 @@
                         <a href="index.html" class="logo">
                             <i class="mdi mdi-album"></i>
                             <span>
-                                BIBLIOTECA
+                                AGUILAR NEWS
                             </span>
                         </a>
                     </div>
@@ -254,106 +254,47 @@
                             <li class="menu-title">Menu</li>
 
                             <li>
-                                <a href="index.html" class="waves-effect"><i class="mdi mdi-home-analytics"></i><span
-                                        class="badge badge-pill badge-primary float-right">7</span><span>Prestamos</span></a>
+                                <a href="index.html" class="waves-effect" ><i ><i
+                                    class="mdi mdi-home"></i></i><span
+                                        class="badge badgi-homee-pill badge-primary float-rightmdi md "></span><span>Inicio</span></a>
                             </li>
 
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-diamond-stone"></i><span>Estudiantes</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="ui-buttons.html">Botones</a></li>
-                                    <li><a href="ui-cards.html">Tarjeta</a></li>
-                                    <li><a href="ui-carousel.html">Carrusel</a>
-                                    <li><a href="ui-embeds.html">Incrusta</a>
-                                    <li><a href="ui-general.html">General</a></li>
-                                    <li><a href="ui-grid.html">Red</a></li>
-                                    <li><a href="ui-media-objects.html">Objetos Multimedia</a></li>
-                                    <li><a href="ui-modals.html">Modales</a></li>
-                                    <li><a href="ui-progressbars.html">Barras de Progreso</a></li>
-                                    <li><a href="ui-tabs.html">Pestañas</a></li>
-                                    <li><a href="ui-typography.html">Tipografia</a></li>
-                                    <li><a href="ui-toasts.html">Brindis</a></li>
-                                    <li><a href="ui-tooltips-popovers.html">Informacion sobre herramientas y ventanas emergentes</a></li>
-                                    <li><a href="ui-scrollspy.html">Pergamino</a></li>
-                                    <li><a href="ui-spinners.html">Hilanderos</a></li>
-                                    <li><a href="ui-sweetalerts.html">Dulces alertas</a></li>
-                                </ul>
+                                <a href="javascript: void(0);"><i
+                                        class="mdi mdi-diamond-stone"></i><span>IDEA DE COMPRA US</span></a>                             
                             </li>
-
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-table-merge-cells"></i><span>Materiales</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="tables-basic.html">Tablas Basicas</a></li>
-                                    <li><a href="tables-datatables.html">Tablas de Datos</a></li>
-                                </ul>
+                                <a href="javascript: void(0);" ><i
+                                        class="mdi mdi-table-merge-cells"></i><span>SERVICIOS</span></a>                               
                             </li>
-
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-poll"></i><span>Libros</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="charts-morris.html">Morris</a></li>
-                                    <li><a href="charts-google.html">Google</a></li>
-                                    <li><a href="charts-chartjs.html">Chartjs</a></li>
-                                    <li><a href="charts-sparkline.html">minigrafico</a></li>
-                                    <li><a href="charts-knob.html">Perilla Jquery </a></li>
-                                </ul>
+                                <a href="javascript: void(0);" ><i
+                                        class="mdi mdi-poll"></i><span>PRECIOS</span></a>
+                               
                             </li>
-
                             <li>
                                 <a href="javascript: void(0);" class="waves-effect"><i
-                                        class="mdi mdi-format-list-bulleted-type"></i><span
-                                        class="badge badge-pill badge-danger float-right">6</span><span>Administracion</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="forms-elements.html">Administracion</a></li>
-                                    <li><a href="forms-plugins.html">Plugins</a></li>
-                                    <li><a href="forms-validation.html">Validacion</a></li>
-                                    <li><a href="forms-mask.html">Mascaras</a></li>
-                                    <li><a href="forms-quilljs.html">Quilljs</a></li>
-                                    <li><a href="forms-uploads.html">Cargas de Archivos</a></li>
-                                </ul>
+                                      ></i><span
+                                        class="badge badge-pill badge-danger float-right">6</span><span>AYUDA</span></a>                      
                             </li>
+                            <li>
+                                <a href="javascript: void(0);" class=""><i
+                                       class="mdi mdi-black-mesa"></i><span>CONTACTANOS</span></a>                           
+                            </li>
+                            <li class="menu-title">MÁS</li>                           
+                            <li><a href="calendar.html" ><i
+                                        class="mdi mdi-calendar-range-outline"></i><span>MI CUENTA</span></a></li>
 
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
-                                        class="mdi mdi-black-mesa"></i><span>Reporte</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="icons-materialdesign.html">Diseño de Materiales</a></li>
-                                    <li><a href="icons-fontawesome.html">Fuente impresionante</a></li>
-                                    <li><a href="icons-dripicons.html">Dripicones</a></li>
-                                    <li><a href="icons-feather.html">Iconos de plumas</a></li>
-                                </ul>
-                            </li>
-
-                            <li class="menu-title">MÁS</li>
-
-                           
-                            <li><a href="calendar.html" class=" waves-effect"><i
-                                        class="mdi mdi-calendar-range-outline"></i><span>Calendario</span></a></li>
-
-                            <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
+                                <a href="javascript: void(0);"><i
                                         class="mdi mdi-map-marker-radius"></i><span>Mapas</span></a>
-                                <ul class="sub-menu" aria-expanded="false">
-                                    <li><a href="maps-google.html">Mapas de Google </a></li>
-                                    <li><a href="maps-vector.html">Mapas Vectoriales</a></li>
-                                </ul>
+                               
                             </li>
 
                             <li>
-                                <a href="javascript: void(0);" class="has-arrow waves-effect"><i
+                                <a href="javascript: void(0);" ><i
                                         class="mdi mdi-share-variant"></i><span>Multi nivel</span></a>
-                                <ul class="sub-menu" aria-expanded="true">
-                                    <li><a href="javascript: void(0);">Nivel 1.1</a></li>
-                                    <li><a href="javascript: void(0);" class="has-arrow">Nivel 1.2</a>
-                                        <ul class="sub-menu" aria-expanded="true">
-                                            <li><a href="javascript: void(0);">Nivel 2.1</a></li>
-                                            <li><a href="javascript: void(0);">Nivel 2.2</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                               
                             </li>
 
                         </ul>
@@ -373,18 +314,19 @@
 
                         <!-- start page title -->
                         <div class="row">
-                            <div class="col-12">
-                                <div class="page-title-box d-flex align-items-center justify-content-between">
-                                    <h4 class="mb-0 font-size-18">Starter</h4>
-
-                                    <div class="page-title-right">
-                                        <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">Pages</a></li>
-                                            <li class="breadcrumb-item active">Starter</li>
-                                        </ol>
-                                    </div>
-
-                                </div>
+                            <div class="container-fluid row">
+                                <?php for ($i=0; $i < 10; $i++) {
+                                    ?>
+                                    <div class="col-md-3" >
+                                        <div class="card">
+                                            <img class="card-im-top img-fluid" src="https://www.shutterstock.com/image-photo/blue-zipper-hoodie-flying-isolated-260nw-2321848009.jpg" >
+                                            <div class="card-body">
+                                                <h5 class="card-title">titulo</h5>
+                                                <p class="card-text">descripcion</p>                                                
+                                                </div>
+                                                </div>
+                                                </div>
+                                <?php  }?>
                             </div>
                         </div>
                         <!-- end page title -->
@@ -392,7 +334,7 @@
                     </div> <!-- container-fluid -->
                 </div>
                 <!-- End Page-content -->
-
+S
                 <footer class="footer">
                     <div class="container-fluid">
                         <div class="row">
@@ -427,6 +369,8 @@
 
         <!-- App js -->
         <script src="plantilla/admin/vertical/assets/js/theme.js"></script>
+
+        
 
     </body>
 
