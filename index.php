@@ -26,6 +26,9 @@
             <div class="header-border"></div>
             <header id="page-topbar">
                 <div class="navbar-header">
+                <div class="navbar-brand-box d-flex align-items-left">
+                            <a href="inicio.html" class="logo">
+                                <i class="mdi mdi-album"></i>
 
                     <div class="d-flex align-items-left">
                         <button type="button" class="btn btn-sm mr-2 d-lg-none px-3 font-size-16 header-item waves-effect"
@@ -239,7 +242,7 @@
                 <div data-simplebar class="h-100">
 
                     <div class="navbar-brand-box">
-                        <a href="index.html" class="logo">
+                        <a href="inicio.html" class="logo">
                             <i class="mdi mdi-album"></i>
                             <span>
                                 AGUILAR NEWS
@@ -254,7 +257,7 @@
                             <li class="menu-title">Menu</li>
 
                             <li>
-                                <a href="index.html" class="waves-effect" ><i ><i
+                                <a href="inicio.html" class="waves-effect" ><i ><i
                                     class="mdi mdi-home"></i></i><span
                                         class="badge badgi-homee-pill badge-primary float-rightmdi md "></span><span>Inicio</span></a>
                             </li>
@@ -272,11 +275,7 @@
                                         class="mdi mdi-poll"></i><span>PRECIOS</span></a>
                                
                             </li>
-                            <li>
-                                <a href="javascript: void(0);" class="waves-effect"><i
-                                      ></i><span
-                                        class="badge badge-pill badge-danger float-right">6</span><span>AYUDA</span></a>                      
-                            </li>
+                            
                             <li>
                                 <a href="javascript: void(0);" class=""><i
                                        class="mdi mdi-black-mesa"></i><span>CONTACTANOS</span></a>                           
@@ -302,6 +301,7 @@
                     <!-- Sidebar -->
                 </div>
             </div>
+            
             <!-- Left Sidebar End -->
 
             <!-- ============================================================== -->
@@ -317,15 +317,15 @@
                             <div class="container-fluid row">
                                 <?php for ($i=0; $i < 10; $i++) {
                                     ?>
-                                    <div class="col-md-3" >
-                                        <div class="card">
-                                            <img class="card-im-top img-fluid" src="https://www.shutterstock.com/image-photo/blue-zipper-hoodie-flying-isolated-260nw-2321848009.jpg" >
-                                            <div class="card-body">
-                                                <h5 class="card-title">titulo</h5>
-                                                <p class="card-text">descripcion</p>                                                
+                                            <div class="col-md-3" >
+                                                <div class="card">
+                                                    <img class="card-im-top img-fluid" src="https://www.shutterstock.com/image-photo/blue-zipper-hoodie-flying-isolated-260nw-2321848009.jpg" >
+                                                                <div class="card-body">
+                                                                    <h5 class="card-title">titulo</h5>
+                                                                    <p class="card-text">descripcion</p>                                                
+                                                                </div>
                                                 </div>
-                                                </div>
-                                                </div>
+                                        </div>
                                 <?php  }?>
                             </div>
                         </div>
