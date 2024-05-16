@@ -247,7 +247,7 @@
             </li>
 
             <li>
-                <a href="javascript: void(0);"><i
+                <a href="nosotros.php"><i
                         class="mdi mdi-diamond-stone"></i><span>Nosotros</span></a>                             
             </li>
             <li>
