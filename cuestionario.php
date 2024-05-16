@@ -66,7 +66,7 @@
                 <div class="col-lg-12">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="mt-0">Tiene alguna Pregunta?</h5>
+                                    <h5 class="mt-0"> alguna Pregunta?</h5>
                                     <p class="text-muted font-13 mb-4">Envíenos sus preguntas por correo electrónico o puede enviarnos Twitter..</p>
                                     <form>
                                         <div class="form-group row">

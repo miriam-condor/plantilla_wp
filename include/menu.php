@@ -248,7 +248,7 @@
 
             <li>
                 <a href="javascript: void(0);"><i
-                        class="mdi mdi-diamond-stone"></i><span>IDEA DE COMPRA US</span></a>                             
+                        class="mdi mdi-diamond-stone"></i><span>Nosotros</span></a>                             
             </li>
             <li>
                 <a href="javascript: void(0);" ><i
