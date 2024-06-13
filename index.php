@@ -1,32 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-
-    <head>
-        <meta charset="utf-8" />
-        <title> VENTA DE ROPA </title>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta content="Premium Multipurpose Admin & Dashboard Template" name="description" />
-        <meta content="MyraStudio" name="author" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-
-        <!-- App favicon -->
-        <link rel="shortcut icon" href="assets/images/favicon.ico">
-
-        <!-- App css -->
-        <link href="plantilla/admin/vertical/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/admin/vertical/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="plantilla/admin/vertical/assets/css/theme.min.css" rel="stylesheet" type="text/css" />
-
-    </head>
-
-    <body>
-
-        <!-- Begin page -->
-        <div id="layout-wrapper">
-            <div class="header-border"></div>
 
             <?php
-                 include ("include/menu.php");
+            get_header();
             ?>
 
             
@@ -54,13 +28,13 @@
                                         </ol>
                                         <div class="carousel-inner" role="listbox">
                                             <div class="carousel-item active">
-                                                <img class="d-block img-fluid" src="assets/images/media/sm-7.jpg" alt="First slide">
+                                                <img class="d-block img-fluid" src="https://i.pinimg.com/474x/2b/27/ba/2b27ba4d8391e6e0ed2b3da13f1a0ee2.jpg" alt="First slide">
                                             </div>
                                             <div class="carousel-item">
-                                                <img class="d-block img-fluid" src="assets/images/media/sm-1.jpg" alt="Second slide">
+                                                <img class="d-block img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZMkiNtkTCs4zoVPx_472f58BNEHGWSwgs9A&s" alt="Second slide">
                                             </div>
                                             <div class="carousel-item">
-                                                <img class="d-block img-fluid" src="assets/images/media/sm-2.jpg" alt="Third slide">
+                                                <img class="d-block img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS08_rKkkLyGTs7aAK9ideNQCKtwsn3Z09eFA&s" alt="Third slide">
                                             </div>
                                         </div>
                                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -99,33 +73,7 @@
                 </div>
                 <!-- End Page-content -->
 
-                
-            <?php
-                 include ("include/pie_pagina.php");
+                <?php
+            get_footer();
             ?>
-
-            </div>
-            <!-- end main content-->
-
-        </div>
-        <!-- END layout-wrapper -->
-
-        <!-- Overlay-->
-        <div class="menu-overlay"></div>
-
-
-        <!-- jQuery  -->
-        <script src="plantilla/admin/vertical/assets/js/jquery.min.js"></script>
-        <script src="plantilla/admin/vertical/assets/js/bootstrap.bundle.min.js"></script>
-        <script src="plantilla/admin/vertical/assets/js/metismenu.min.js"></script>
-        <script src="plantilla/admin/vertical/assets/js/waves.js"></script>
-        <script src="plantilla/admin/vertical/assets/js/simplebar.min.js"></script>
-
-        <!-- App js -->
-        <script src="plantilla/admin/vertical/assets/js/theme.js"></script>
-
         
-
-    </body>
-
-</html>
