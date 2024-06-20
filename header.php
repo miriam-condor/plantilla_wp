@@ -262,10 +262,11 @@
         )
       );
     ?>
-
+<!
     <!--- Sidemenu -->
     <div id="sidebar-menu">
         <!-- Left Menu Start -->
+        <!---
         <ul class="metismenu list-unstyled" id="side-menu">
             <li class="menu-title">Menu</li>
 
@@ -318,6 +319,7 @@
                         class="mdi mdi-share-variant"></i><span>Multi nivel</span></a>              
             </li>
         </ul>
+        --->
     </div>
      
 

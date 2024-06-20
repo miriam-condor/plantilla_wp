@@ -19,4 +19,13 @@ function register_my_menus() {
        return $atts;
 
    }
+   //agregar soporte para imagen destacado
+   if ( function_exists( 'add_theme_support' ) ) {
+    add_theme_support( 'post-thumbnails' );
+    
+    // additional image sizes
+    // delete the next line if you do not need additional image sizes
+    add_image_size( 'category-thumb', 300, 9999 ); // 300 pixels wide (and unlimited height)
+}
+
 ?>

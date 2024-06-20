@@ -53,18 +53,34 @@
                         <!-- start page title -->
                         <div class="row">
                             <div class="container-fluid row">
-                                <?php for ($i=0; $i < 10; $i++) {
+                                <?php 
+                                if ( have_posts() ) :
+                                    while ( have_posts() ) : the_post();
+                                      
+                                 
+                                
                                     ?>
+
                                             <div class="col-lg-2 col-md-3 col-sm-6" >
                                                 <div class="card">
-                                                    <img class="card-im-top img-fluid" src="https://www.shutterstock.com/image-photo/blue-zipper-hoodie-flying-isolated-260nw-2321848009.jpg" >
+                                                    <a href="<?php the_permalink(); ?>"><?php 
+                                                    if ( has_post_thumbnail() ) {
+                                                        the_post_thumbnail('thumbnail', array( 'class' => 'card-im-top img-fluid' ));
+                                                    }
+                                                    ?></a>
+                                                   
                                                                 <div class="card-body">
-                                                                    <h5 class="card-title">titulo</h5>
-                                                                    <p class="card-text">descripcion</p>                                                
+                                                                    <h5 class="card-title"><?php the_title();?></h5>
+                                                                    <?php the_excerpt()?></p>                                                
                                                                 </div>
                                                 </div>
                                         </div>
-                                <?php  }?>
+                                <?php 
+                                   endwhile;
+                                   else :
+                                       _e( 'No se encontraron productos en la categoria seleccionada.', 'textdomain' );
+                                   endif;
+                                 ?>
                             </div>
                         </div>
                         <!-- end page title -->
