@@ -56,9 +56,6 @@
                                 <?php 
                                 if ( have_posts() ) :
                                     while ( have_posts() ) : the_post();
-                                      
-                                 
-                                
                                     ?>
 
                                             <div class="col-lg-2 col-md-3 col-sm-6" >
